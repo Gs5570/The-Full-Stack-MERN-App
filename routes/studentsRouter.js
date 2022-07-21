@@ -29,7 +29,7 @@ router.post(
 			.isLength({ min: 6 })
 			.not()
 			.isEmpty(),
-	],authMiddleware,
+	],
 	async (req, res) => {
 		const studentData = req.body;
 		const errors = validationResult(req);

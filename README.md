@@ -7,9 +7,9 @@ that allows user to  enter data to update information about univesities membe
 
 1. postman
 2. browser
-3.
 
-## Installation
+
+## Dependencies Installation
 
 Command to install all the dependecies used in this api 
 ```bash
@@ -21,5 +21,8 @@ npm i express bcryptjs dotenv express-validator helmet jsonwebtoken mongoose mor
 1. nodeJs
 2. javascripts
 
+## Routes
 
-
+1. student
+2. faculty
+3. auth 
