@@ -1,12 +1,11 @@
-# University Management System
+# Full Stack University Management System
 
-This api was built in order to manage schools database of students, faculties, departments, degree and course. It is a full CRUD backend applications
-that allows user to  enter data to update information about univesities membe
+This app is a fullstack implimentation that levargae the MERN stack. It's a full front end and back application connected that mimics a University website in which faculties, students and other employees have to sign in in order to accomplish their task
 
 ## Tools
 
-1. postman
-2. browser
+1. postman: for testing the back-end
+2. browser: for testint the fornt -end
 
 
 ## Dependencies Installation
@@ -20,6 +19,9 @@ npm i express bcryptjs dotenv express-validator helmet jsonwebtoken mongoose mor
 
 1. nodeJs
 2. javascripts
+3. react
+4. mongoDB
+5. expressJs
 
 ## Routes
 
